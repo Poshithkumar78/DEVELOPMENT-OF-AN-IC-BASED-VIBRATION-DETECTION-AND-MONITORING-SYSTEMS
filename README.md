@@ -1,0 +1,2 @@
+# DEVELOPMENT-OF-AN-IC-BASED-VIBRATION-DETECTION-AND-MONITORING-SYSTEMS
+The vibration detector is an analog circuit that detects mechanical vibrations and provides real-time feedback via an LED. Using an NE555 timer in monostable mode, it processes signals from a nail-spring vibration analyser. Cost-effective and versatile, it’s ideal for applications like machinery monitoring, security systems, and education.
